@@ -2,7 +2,7 @@
 This repositiory is dedicated to the development of my Raspberry Pi Home Assistant application or RPHA for short. This application is used to control my smart home utilities as well as to provide some analytics about my apartment such as temperature, noise level, and humidity levels. My apartment has some thin walls, and loud noises within the apartment can be heard throughout the hallway, RPHA will alert me via a text if the noise levels are too high for a period of time. Additionally, RPHA will alert me during work days of the current weather conditions, such as if I should pack an umbrella or wear a heavy jacket on my way to work.
 
 ## Repository Information
-**RPHA.Web** - Contains the codebase to run the web applcation.
+**RPHA.App** - Contains the electron application codebase.
 
 **RPHA.RP** - Contains the codebase to run the backend raspberry pi components.
 
