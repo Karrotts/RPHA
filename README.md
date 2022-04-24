@@ -12,7 +12,7 @@ This repositiory is dedicated to the development of my Raspberry Pi Home Assista
 If you would like to contribute, please check out the [local development guide](https://github.com/Karrotts/RPHA/blob/main/docs/local-development.md)
 
 ## Complete Setup
-If you want to set this up yourself, please check out the [complete setup guide]()
+If you want to set this up yourself, please check out the [complete setup guide](https://github.com/Karrotts/RPHA/blob/main/docs/complete-setup-guide.md)
 
 ## Questions or Concerns?
 Please contact me at: [wesley.b.miller@outlook.com](mailto:wesley.b.miller@outlook.com)
