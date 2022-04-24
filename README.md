@@ -9,7 +9,7 @@ This repositiory is dedicated to the development of my Raspberry Pi Home Assista
 **RPHA.Server** - Contains the codebase to the api server, used as intermediary between the web and the backend server.
 
 ## Contributing
-If you would like to contribute, please check out the [local development guide]()
+If you would like to contribute, please check out the [local development guide](https://github.com/Karrotts/RPHA/blob/main/docs/local-development.md)
 
 ## Complete Setup
 If you want to set this up yourself, please check out the [complete setup guide]()
