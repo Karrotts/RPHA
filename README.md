@@ -4,9 +4,9 @@ This repositiory is dedicated to the development of my Raspberry Pi Home Assista
 ## Repository Information
 **RPHA.Web** - Contains the codebase to run the web applcation.
 
-**RPHA.Server** - Contains the codebase to run the backend raspberry pi components.
+**RPHA.RP** - Contains the codebase to run the backend raspberry pi components.
 
-**RPHA.API** - Contains the codebase to the api server, used as intermediary between the web and the backend server.
+**RPHA.Server** - Contains the codebase to the api server, used as intermediary between the web and the backend server.
 
 ## Contributing
 If you would like to contribute, please check out the [local development guide]()
